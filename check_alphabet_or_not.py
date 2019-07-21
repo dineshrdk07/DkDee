@@ -1,5 +1,5 @@
 char_check=input()
-if(char_check.isaplha()):
+if(char_check.isalpha()):
  print("Alphabet")
 else:
  print("invalid")
