@@ -1,7 +1,7 @@
 num_check=int(input())
 if(num_check>0):
- print("positive")
+ print("Positive")
 elif(num_check<0):
- print("negative")
+ print("Negative")
 else:
- print("zero")
+ print("Zero")
